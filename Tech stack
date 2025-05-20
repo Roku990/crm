@@ -1,0 +1,5 @@
+- **Frontend**: Angular 16, TypeScript, Bootstrap/Material UI  
+- **Backend**: Django REST Framework, Python 3.9+  
+- **Databases**: PostgreSQL (relational), MongoDB (NoSQL)  
+- **DevOps**: Docker, GitHub Actions, AWS ECS/Azure App Service  
+- **APIs**: REST (Django), WebSockets (Django Channels)  
